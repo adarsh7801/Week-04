@@ -19,11 +19,8 @@ public class StringUtility {
         if (sb.equals(sb1.reverse())){
             return true;
         }
-
         return false;
-
     }
-
     //to uppercase method
     public static String toUppercase(String str){
 
