@@ -31,8 +31,7 @@ public class ListManagerTesting {
         assertTrue(removed);
 
     }
-
-    //testing get size method
+    //testing get size
     @Test
     void testGetSize(){
 

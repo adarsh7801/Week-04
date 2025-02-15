@@ -7,7 +7,7 @@ import java.util.ArrayList;
 //class
 public class ListManager {
 
-    //arraylist
+
     private final ArrayList<Object> list;
 
     //constructor
