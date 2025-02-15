@@ -28,7 +28,7 @@ public class Calculator {
             answer = a/b;
         }
         catch (ArithmeticException e){
-            System.out.println("Division by 0 not allowed");
+            System.out.println("Division by 0 not allow");
             System.out.println(e.getMessage());
         }
         return answer ;
