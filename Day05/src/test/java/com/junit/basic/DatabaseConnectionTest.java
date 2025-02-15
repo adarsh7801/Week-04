@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-// JUnit test class for DatabaseConnection
+// JUnit test class for
 public class DatabaseConnectionTest {
     private DatabaseConnection dbConnection;
 
