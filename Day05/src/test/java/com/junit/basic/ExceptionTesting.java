@@ -20,7 +20,7 @@ public class ExceptionTesting {
         });
 
         //matching testcase
-        assertEquals("Can not divide by 0", e.getMessage());
+        assertEquals(" You Can not divide by 0", e.getMessage());
 
     }
 
