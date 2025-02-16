@@ -1,4 +1,4 @@
-package ecom.regex.advanced;
+package com.regex.advanced;
 
 import com.regex.advanced.ExtractProgrammingLanguages;
 import org.junit.jupiter.api.Test;
